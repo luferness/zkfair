@@ -4,8 +4,8 @@ TG Channel - https://t.me/easypeoff
 
 ## Installation
 1) Install python3.9 or higher
-
-2) Run in project's directory:
+2) Virtual enviroment
+3) Run in project's directory:
 ```
 pip install -r requirements.txt
 ```
